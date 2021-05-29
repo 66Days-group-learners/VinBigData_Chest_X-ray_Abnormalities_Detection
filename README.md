@@ -9,10 +9,10 @@ The goal of this Kaggle [competition](https://www.kaggle.com/c/vinbigdata-chest-
 ## Authors
 
 * [David Lee](https://github.com/insigh1)
-* [MrLeritaite](https://github.com/MrLeritaite)
-* [AdriNarendra](https://github.com/AdriNarendra)
-* [William Guesdon](https://github.com/orgs/66Days-group-learners/people/wguesdon)
 * [Linus Johansson](https://github.com/LinusJ79)
+* [William Guesdon](https://github.com/orgs/66Days-group-learners/people/wguesdon)
+* [AdriNarendra](https://github.com/AdriNarendra)
+* [MrLeritaite](https://github.com/MrLeritaite)
 
 ## Structure of the repository
 
