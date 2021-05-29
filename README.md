@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The goal of this Kaggle [competition](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection) is to detect abnolamlies on chests X-rays images.
+The goal of this Kaggle [competition](https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection) is to detect anomalies on chests X-rays images.
 
 ## Authors
 
@@ -15,20 +15,9 @@ The goal of this Kaggle [competition](https://www.kaggle.com/c/vinbigdata-chest-
 * [Linus Johansson](https://github.com/LinusJ79)
 
 ## Structure of the repository
-#### data/
-contains the initial metadata and images as well as the resized images.
 
-#### models/
-Contains final trained  version of models.
-
-#### reports/
-Contains the meetings notes, presentations and reports for the project.
-
-#### src/
-Contains the libraries built to  build the training set, train final ML models.
-
-#### dev/
-Directory to be used for development. Each of the authors having one folder to upload scripts and notebooks in development.
+#### methods/
+Contains the instruction to set up the environment.
 
 #### notebooks/
 Contains the notebooks used for 
@@ -36,17 +25,21 @@ Contains the notebooks used for
 * Resizing the dataset.
 * experimenting with ML models.
 
+#### src/
+Contains the libraries built to  build the training set, train final ML models.
+
+#### dev/
+Directory to be used for development. Each of the authors having one folder to upload scripts and notebooks in development.
+
 #### file-tree structure/
 
 ```
 ├── README.md          <- The top-level README for developers using this project.
+|
+├── methods           <- Instruction for environment set up
 │
 ├── notebooks          <- Key Jupyter notebooks 
-│   ├── Exploration    
-│   ├── modelling _development     
-│
-├── reports            <- Presentations
-│
+|
 ├── src                <- Source code for use in this project.
 │
 ├── dev         <- Directory for development in progress
