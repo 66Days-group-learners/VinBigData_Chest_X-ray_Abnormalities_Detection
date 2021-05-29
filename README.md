@@ -10,7 +10,7 @@ The goal of this Kaggle [competition](https://www.kaggle.com/c/vinbigdata-chest-
 
 * [David Lee](https://github.com/insigh1)
 * [Linus Johansson](https://github.com/LinusJ79)
-* [William Guesdon](https://github.com/orgs/66Days-group-learners/people/wguesdon)
+* [William Guesdon](https://github.com/wguesdon)
 * [AdriNarendra](https://github.com/AdriNarendra)
 * [MrLeritaite](https://github.com/MrLeritaite)
 
