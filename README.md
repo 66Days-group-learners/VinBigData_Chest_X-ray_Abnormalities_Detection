@@ -41,13 +41,8 @@ Contains the notebooks used for
 ```
 ├── README.md          <- The top-level README for developers using this project.
 │
-├── data   			   <- only contains data
-│
-├── models             <- Trained and models
-│
 ├── notebooks          <- Key Jupyter notebooks 
 │   ├── Exploration    
-│   ├── build_dataset    
 │   ├── modelling _development     
 │
 ├── reports            <- Presentations
