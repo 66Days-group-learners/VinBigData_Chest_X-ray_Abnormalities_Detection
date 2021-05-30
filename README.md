@@ -1,6 +1,6 @@
 # VinBigData 
 
-66DaysOfData group learning first competition.
+[66DaysOfData](https://www.kennethjee.com/66daysofdata) group learning first competition.
 
 ## Introduction
 
